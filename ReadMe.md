@@ -13,3 +13,4 @@ Collection of Obsidian template notes
 - [ ] Revamp design completely
 - [ ] Make daily notes compliant with [[Dataview in Obsidian- A Beginner's Guide - Obsidian Rocks | Dataview]] plugin 
 
+

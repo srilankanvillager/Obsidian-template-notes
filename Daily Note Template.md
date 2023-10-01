@@ -1,9 +1,13 @@
+# Objectives
+- 
+## Optional 
+- 
 
 ----
 # Work Done Today
 
 | Time Period | Work Done |
-| -------- | -------- | 
+	| -------- | -------- | 
 | Item 1 | Item 2   
 | Item 4 | Item 5 
 
